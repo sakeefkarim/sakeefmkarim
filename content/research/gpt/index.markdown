@@ -11,8 +11,12 @@ tags: []
 links:
 - icon: door-open
   icon_pack: fas
-  name: Link (Open Access)
-  url: https://journals.sagepub.com/doi/pdf/10.1177/00031224211011981
+  name: HTML
+  url: https://journals.sagepub.com/doi/abs/10.1177/00031224211011981
+- icon: file-pdf
+  icon_pack: fas
+  name: PDF
+  url: https://journals.sagepub.com/doi/pdf/10.1177/00031224211011981  
 
 ---
 
