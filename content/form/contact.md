@@ -9,8 +9,8 @@ show_poweredby_formspree: true
 show_social_links: true
 submit_button_label: Shoot me an e-mail
 title: Sakeef M. Karim
+url: contact
 type: form
-url: form
 ---
 
 ** Contact page don't contain a body, just the front matter above.
