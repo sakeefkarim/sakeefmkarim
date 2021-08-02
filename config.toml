@@ -112,7 +112,7 @@ enableEmoji = true
     [[params.social]]
       icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://www.dropbox.com/s/sg9r7tclqtcb01s/CV_July2021.pdf?dl=0"
+      url       = "https://www.dropbox.com/s/l82qpjc4ddqabw4/CV_August2021.pdf?dl=0"
      [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fa"
