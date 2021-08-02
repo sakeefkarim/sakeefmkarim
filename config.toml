@@ -113,6 +113,11 @@ enableEmoji = true
       icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://www.dropbox.com/s/sg9r7tclqtcb01s/CV_July2021.pdf?dl=0"
+     [[params.social]]
+      icon      = "envelope" # icon name without the 'fa-'
+      icon_pack = "fa"
+      url       = "mailto:sakeef.karim@mail.mcgill.ca"
+
 
 [taxonomies]
   category = "categories"
