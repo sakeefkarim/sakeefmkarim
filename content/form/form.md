@@ -1,6 +1,6 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: PhD Candidate in Sociology, McGill University.
+description: PhD Candidate in Sociology at McGill University.
 draft: false
 formspree_form_id: xdoywzvv
 layout: split-right
