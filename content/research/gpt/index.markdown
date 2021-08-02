@@ -12,7 +12,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: Link (Open Access)
-  url: https://journals.sagepub.com/doi/abs/10.1177/00031224211011981
+  url: https://journals.sagepub.com/doi/pdf/10.1177/00031224211011981
 
 ---
 
