@@ -154,7 +154,7 @@ enableEmoji = true
   [[menu.header]]
    name = "Curriculum Vitae"
    title = "Curriculum Vitae"
-   url = "/files/CV_July2021.pdf"
+   url = "https://sakeefkarim.netlify.app/CV_July2021.pdf"
    weight = 3
   # Configure footer  
   #[[menu.footer]]
