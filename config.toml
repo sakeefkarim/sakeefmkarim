@@ -134,8 +134,8 @@ enableEmoji = true
   [[menu.header]]
     name = "Research"
     title = "Research"
-    url = "/publication/"
-    weight = 3
+    url = "/research/"
+    weight = 2
   #[[menu.header]]
   #  name = "Works in Progress"
   #  title = "Works in Progress"
@@ -153,8 +153,9 @@ enableEmoji = true
   #  weight = 6
   [[menu.header]]
    name = "Curriculum Vitae"
+   title = "Curriculum Vitae"
    url = "https://www.dropbox.com/s/sg9r7tclqtcb01s/CV_July2021.pdf?dl=0"
-   weight = 4
+   weight = 3
   # Configure footer  
   #[[menu.footer]]
   #  name = "License"
@@ -163,9 +164,9 @@ enableEmoji = true
   #  weight = 1
   [[menu.header]]
     name = "Contact Me"
-    title = "Contact form"
+    title = "Contact Me"
     url = "/contact/"
-    weight = 5
+    weight = 4
   #[[menu.footer]]
   #  name = "Contributors"
   #  title = "Contributors"
