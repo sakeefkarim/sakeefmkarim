@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://sakeefkarim.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Sakeef M. Karim"
@@ -165,7 +165,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Contact Me"
     title = "Contact Me"
-    url = "/contact/"
+    url = "/form/"
     weight = 4
   #[[menu.footer]]
   #  name = "Contributors"
