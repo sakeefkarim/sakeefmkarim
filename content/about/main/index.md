@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  I am a PhD Candidate in the Department of Sociology at McGill University (with a concentration in population dynamics). I received an MA in Sociology from McMaster University and an HBSc in Psychology from the University of Toronto. 
+  Before arriving in Montréal, I received an MA in Sociology from McMaster University and an HBSc in Psychology from the University of Toronto. 
 
   As a researcher, I rely on a range of quantitative instruments and cross-national surveys to study social, political and cultural phenomena in comparative perspective. These phenomena include, but are not limited to, ethnic identification and cultural transmission among immigrants and the links between democracy, populism and nationalism in the modern world. My work has been funded by the Social Science and Humanities Research Council of Canada and has appeared in the _American Sociological Review_.
   
