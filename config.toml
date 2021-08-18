@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Sakeef M. Karim"
   orgLocal = ""
   description = ""
-  favicon = "/img/web_logo_icon.svg"
-  logo = "/img/web_logo.png"
+  favicon = "/img/reshot_icon.svg"
+  logo = "/img/reshot_icon.svg"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
