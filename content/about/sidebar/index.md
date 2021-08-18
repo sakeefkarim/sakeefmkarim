@@ -9,8 +9,8 @@ link_list_label: "Select Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Ethnic Identification
   url: https://www.sciencedirect.com/topics/psychology/ethnic-identity
-- name: Democracy, Populism and Nationalism
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/nana.12522
+- name: Political Culture
+  url: https://www.sciencedirect.com/topics/social-sciences/political-culture
 - name: International Migration
   url: https://www.sciencedirect.com/topics/earth-and-planetary-sciences/international-migration
 - name: Data Visualization
