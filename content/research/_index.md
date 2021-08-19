@@ -1,12 +1,12 @@
 ---
-title: 
-description: |
-
+title: Research
+description: | 
+  Click on the links below to access research articles I’ve published, pre-prints I’m working on, and supplemental materials related to my projects. This page will be regularly updated. 
 author: ""
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
 show_author_byline: true
-show_post_date: true
+show_post_date: false
 # for listing page layout
 layout: list-sidebar # list, list-sidebar, list-grid
 
@@ -23,7 +23,7 @@ sidebar:
 cascade:
   author: "Sakeef M. Karim"
   show_author_byline: true
-  show_post_date: true
+  show_post_date: false
   show_comments: false # see site config to choose Disqus or Utterances
   # for single-sidebar layout
   sidebar:

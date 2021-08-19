@@ -1,6 +1,6 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: PhD Candidate in Sociology at McGill University.
+description: Sakeef M. Karim <br> PhD Candidate in Sociology at McGill University.
 draft: false
 formspree_form_id: xdoywzvv
 layout: split-right
@@ -8,7 +8,7 @@ name: Sakeef M. Karim
 show_poweredby_formspree: true
 show_social_links: true
 submit_button_label: Shoot me an e-mail
-title: Sakeef M. Karim
+title: Contact Me
 url: contact
 type: form
 ---
