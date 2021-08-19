@@ -159,7 +159,7 @@ enableEmoji = true
   [[menu.header]]
    name = "Curriculum Vitae"
    title = "Curriculum Vitae"
-   url = "files/CV_August2021.pdf"
+   url = "/cv/curriculum-vitae.pdf"
    weight = 3
   # Configure footer  
   #[[menu.footer]]
