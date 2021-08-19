@@ -20,7 +20,6 @@ link_list:
 
 <!-- this is a subheadline -->
 
-Okay
 
 
 ** index doesn't contain a body, just front matter above.
