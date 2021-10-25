@@ -17,6 +17,10 @@ links:
   icon_pack: fas
   name: PDF
   url: /files/SoehlKarim_2021.pdf 
+- icon: github
+  icon_pack: fab
+  name: Materials
+  url: https://github.com/sakeefkarim/gpt_threat
 
 ---
 
