@@ -16,8 +16,8 @@ layout: single
 categories:
 - workshop
 links:
-- icon: image
-  icon_pack: fab
+- icon: door-open
+  icon_pack: fas
   name: slides
   url: https://ggdagcand3.netlify.app/
 - icon: github
