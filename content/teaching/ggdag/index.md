@@ -17,7 +17,7 @@ categories:
 - workshop
 - CAnD3
 links:
-- icon: door-open
+- icon: images
   icon_pack: fas
   name: slides
   url: https://ggdagcand3.netlify.app/
