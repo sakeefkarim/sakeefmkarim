@@ -2,7 +2,7 @@
 title: "Intro to ggdag"
 subtitle: "Testing"
 excerpt: "A mini-workshop on how to use the ggdag package within R."
-date: 2021-12-01
+date: 2021-11-29
 date_end: "2021-12-01"
 featured: true
 show_post_time: false
