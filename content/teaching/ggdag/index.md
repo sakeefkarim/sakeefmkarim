@@ -1,6 +1,6 @@
 ---
 title: "Intro to ggdag"
-subtitle: "Testing"
+subtitle: ""
 excerpt: "A mini-workshop on how to use the ggdag package within R."
 date: 2021-11-29
 date_end: "2021-12-01"
@@ -16,8 +16,8 @@ layout: single
 categories:
 - workshop
 links:
-- icon: door-open
-  icon_pack: fas
+- icon: image
+  icon_pack: fab
   name: slides
   url: https://ggdagcand3.netlify.app/
 - icon: github
