@@ -1,15 +1,8 @@
 ---
-title: "Intro to ggdag"
-excerpt: "A mini-workshop on how to use the ggdag package within R."
-date: 2021-12-01
-date_end: 2021-12-01
-featured: true
-show_post_time: false
-author: "Sakeef M. Karim"
-location: "Montreal, Canada"
-draft: false
-# layout options: single, single-sidebar
-layout: single
+title: Intro to ggdag
+summary: A mini-workshop on how to use the ggdag package within R.
+author: ''
+date: '2021-12-01'
 categories:
 - CAnD3
 - R
