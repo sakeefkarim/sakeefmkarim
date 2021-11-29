@@ -2,7 +2,7 @@
 title: Teaching
 description: |
   
-author: "Sakeef M. Karim"
+author: ""
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
