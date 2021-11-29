@@ -33,7 +33,7 @@ enableEmoji = true
   description = ""
   favicon = "/img/reshot_icon.svg"
   logo = "/img/reshot_icon.svg"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog", "projects", "teaching"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -141,11 +141,11 @@ enableEmoji = true
     title = "Research"
     url = "/research/"
     weight = 2
-  #[[menu.header]]
-  #  name = "Works in Progress"
-  #  title = "Works in Progress"
-  #  url = "/works/"
-  #  weight = 4
+  [[menu.header]]
+    name = "Teaching"
+    title = "Teaching"
+    url = "/teaching/"
+    weight = 3
   #[[menu.header]]
   #  name = "Data Visualizations"
   #  title = "Data Visualizations"
@@ -157,10 +157,10 @@ enableEmoji = true
   #  url = "/cv/"
   #  weight = 6
   [[menu.header]]
-   name = "Curriculum Vitae"
+   name = "CV"
    title = "Curriculum Vitae"
    url = "/cv/curriculum-vitae.pdf"
-   weight = 3
+   weight = 4
   # Configure footer  
   #[[menu.footer]]
   #  name = "License"
@@ -171,7 +171,7 @@ enableEmoji = true
     name = "Contact Me"
     title = "Contact Me"
     url = "/contact/"
-    weight = 4
+    weight = 5
   #[[menu.footer]]
   #  name = "Contributors"
   #  title = "Contributors"
