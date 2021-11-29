@@ -7,7 +7,7 @@ date_end: "2021-12-01"
 featured: true
 show_post_time: false
 event: "CAnD3"
-event_url: 
+event_url: https://ggdagcand3.netlify.app/
 author: "Sakeef M. Karim"
 location: "Montreal, Canada"
 draft: false
