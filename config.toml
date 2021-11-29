@@ -33,7 +33,7 @@ enableEmoji = true
   description = ""
   favicon = "/img/reshot_icon.svg"
   logo = "/img/reshot_icon.svg"
-  mainSections = ["blog", "projects", "talk"]
+  mainSections = ["blog", "projects", "teaching"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
