@@ -15,6 +15,7 @@ draft: false
 layout: single
 categories:
 - workshop
+- CAnD3
 links:
 - icon: door-open
   icon_pack: fas
