@@ -1,6 +1,6 @@
 ---
 title: "Intro to ggdag"
-subtitle: ""
+subtitle: "Testing"
 excerpt: "A mini-workshop on how to use the ggdag package within R."
 date: 2021-12-01
 date_end: "2021-12-01"
