@@ -2,7 +2,7 @@
 title: "Intro to Python"
 subtitle: ""
 excerpt: "A very quick introduction to Python."
-date: 2022-03-23
+date: 2022-03-21
 date_end: "2022-04-13"
 featured: true
 show_post_time: false
