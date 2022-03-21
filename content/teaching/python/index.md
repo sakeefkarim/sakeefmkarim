@@ -27,4 +27,4 @@ links:
   url: https://github.com/sakeefkarim/cand3_intro_python
 ---
 
-This [CAnD3](https://www.mcgill.ca/cand3/) mini-workshop provides a _very_ brief introduction to [Python](https://www.python.org/) — including how to manage packages, run Python script in R, and use Jupyter Notebooks.
+This [CAnD3](https://www.mcgill.ca/cand3/) mini-workshop provides a _very_ brief introduction to [Python](https://www.python.org/) — including how to manage packages, run Python scripts in R, and unlock the power of Jupyter Notebooks.
